@@ -1,5 +1,7 @@
 # Anime Length and Audience Rating
 
+Just to add: teacher, I had some differences in submission time because I later switched GitHub repositories.
+
 ## Research Question
 
 Is there a relationship between episode count and audience score among completed TV anime with 100 episodes or fewer?
