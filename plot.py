@@ -52,7 +52,7 @@ plt.scatter(
 
 plt.xlabel("Number of Episodes")
 plt.ylabel("Audience Score")
-plt.title("Episode Count vs Audience Score for Completed TV Anime")
+plt.title("Episode Count vs Audience Score for TV Anime (≤100 Episodes)")
 
 plt.tight_layout()
 
